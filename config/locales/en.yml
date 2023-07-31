@@ -216,9 +216,17 @@ en:
       short: "%d %b %H:%M"
     pm: pm
   views:
+    title:
+      index: "Books"
+      new: "New book"
+      edit: "Editing book"
     link:
       new: "New book"
       show: "Show this book"
       back: "Back to books"
       edit: "Edit this book"
       destroy: "Destroy this book"
+    notice:
+      create: "Book was successfully created."
+      update: "Book was successfully updated."
+      destroy: "Book was successfully destroyed."

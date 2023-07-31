@@ -182,9 +182,17 @@ ja:
       short: "%m/%d %H:%M"
     pm: 午後
   views:
+    title:
+      index: "本情報一覧"
+      new: "新しく本を作成"
+      edit: "本の編集"
     link:
       new: "新しく本を作成"
       show: "本情報を見る"
       back: "本一覧に戻る"
       edit: "この本を編集"
       destroy: "この本を削除"
+    notice:
+      create: "本作成が成功しました"
+      update: "本更新が成功しました"
+      destroy: "本削除が成功しました"
